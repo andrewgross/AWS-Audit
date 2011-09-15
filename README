@@ -1,0 +1,1 @@
+Some quick scripts for auditing your AWS setup.  This assumes you have python and boto installed with your AWS keys in ~/.boto
